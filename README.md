@@ -18,3 +18,10 @@
 ```
 > python manage.py runserver 8080
 ```
+
+## Other useful commands
+
+1. create a new app
+```
+> python manage.py startapp {app-name}
+```
