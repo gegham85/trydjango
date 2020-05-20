@@ -18,3 +18,26 @@
 ```
 > python manage.py runserver 8080
 ```
+
+## Other useful commands
+
+1. create a new app
+```
+> python manage.py startapp {app-name}
+```
+
+2. create a super user 
+```
+> python manage.py createsuperuser
+```
+
+3. creating new migrations and migrate
+```
+> python manage.py makemigrations
+> python manage.py migrate
+```
+
+4. open django shell
+```
+python manage.py shell
+```
