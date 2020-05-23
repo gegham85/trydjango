@@ -41,3 +41,10 @@
 ```
 python manage.py shell
 ```
+
+## Heroku Commands
+
+1. deploy non master branch to heroku
+```
+> git push heroku sqlite-master:master
+```
