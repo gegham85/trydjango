@@ -25,7 +25,7 @@ SECRET_KEY = 'zlna=!_ve&y6#s&pl&(4xv5dzzw&uo5o)v)jc$zp-z4cj*m@4i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['my-heroku-trydjango.herokuapp.com']
+ALLOWED_HOSTS = ['my-heroku-trydjango.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
