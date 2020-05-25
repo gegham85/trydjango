@@ -48,3 +48,8 @@ python manage.py shell
 ```
 > git push heroku sqlite-master:master
 ```
+
+2. see files and file structure on a deployed Heroku app
+```
+> heroku run bash -a my-heroku-trydjango
+```
